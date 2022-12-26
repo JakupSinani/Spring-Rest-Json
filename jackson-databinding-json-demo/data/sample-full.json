@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Jakup",
+	"lastName": "Sinani",
+	"active": true,
+	"address": {
+		"street": "Rr.101",
+		"city": "Tetovo",
+		"state": "North Macedonia",
+		"zip": "1200",
+		"country": "MK"
+	},
+	"languages" : ["Java", "C#", "Python", "Javascript"],
+	"company": "Acme Inc"
+}
